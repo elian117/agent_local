@@ -125,7 +125,6 @@ MODEL_NAME = "google/gemma-2b-it"
 - **Qwen2.5-1.5B-Instruct**: Balance entre calidad y recursos
 
 ### Optimizaciones de Rendimiento
-- **FP16 en GPU**: Reduce uso de memoria a la mitad
 - **Truncado inteligente**: Mantiene contexto relevante
 - **Cache local**: Los modelos se descargan una sola vez
 - **Generación controlada**: Evita respuestas muy largas
