@@ -1,0 +1,12 @@
+# Dependencias principales
+transformers>=4.44.0
+torch>=2.1.0
+accelerate>=0.24.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# Modelos más eficientes
+bitsandbytes>=0.41.0      # Cuantización 8-bit/4-bit
+
+# Tokenización avanzada
+tokenizers>=0.15.0
